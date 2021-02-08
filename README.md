@@ -2,4 +2,3 @@
 Wavestudy site do projeto
 
 
-## Tarefas

@@ -1,3 +1,25 @@
-@import url('https://fonts.googleapis.com/css2? family = Kaushan + Script & family = Lato: ital, wght @ 0,400; 1,700 & family = Lemonada: wght @ 400; 700 & family = Poppins: ital, wght @ 0,100; 0,600; 1,400 & family = Roboto: ital, wght @ 0,400; 1.500 & family = Satisfazer & family = Sriracha & display = trocar ');
+style { @import url('https://fonts.googleapis.com/css2? family = Baloo + Da + 2: wght @ 400; 500; 800 & family = Concerto + One & family = Gloria + Aleluia & family = Hachi + Maru + Pop & family = Josefin + Slab: ital, wght @ 0,600; 0,700; 1.600; 1.700 & family = Mulish: ital, wght @ 0,300; 0,600; 0,900; 1.300 & family = Potta + One & family = Sacramento & família = Especial + Elite & família = Estalinista + Um & display = troca ');
+}style
+*{
+    margin: 0;
+    padding: 0;
+}
 
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css");
+header{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+.img.wrapper {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: black;
+}
+
+.img.wrapper img { 
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
+}
